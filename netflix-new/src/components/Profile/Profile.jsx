@@ -4,6 +4,12 @@ import styled from "styled-components";
 const Card = styled.div`
   width: 20%;
   max-width: 200px;
+  cursor: pointer;
+  color: gray;
+
+  div:hover {
+    color: white;
+  }
 `;
 
 const Avatar = styled.img`

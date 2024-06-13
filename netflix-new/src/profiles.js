@@ -1,6 +1,7 @@
-export const profiles = [
+export const profilesData = [
   {
     id: 7,
+
     name: "Lawson",
     avatar: "https://reqres.in/img/faces/7-image.jpg",
   },
